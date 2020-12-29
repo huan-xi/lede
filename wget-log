@@ -1,0 +1,6 @@
+--2020-12-25 21:01:44--  https://pipelines.actions.githubusercontent.com/nRiWMXa8lBRj52pjVhVSAO9251prhVatEuFJkt2Fk95T6dqwMT/_apis/pipelines/1/runs/4/signedartifactscontent?artifactName=OpenWrt_firmware
+Resolving pipelines.actions.githubusercontent.com (pipelines.actions.githubusercontent.com)... 13.107.42.16, 2620:1ec:21::16
+Connecting to pipelines.actions.githubusercontent.com (pipelines.actions.githubusercontent.com)|13.107.42.16|:443... connected.
+HTTP request sent, awaiting response... 400 Bad Request
+2020-12-25 21:01:47 ERROR 400: Bad Request.
+
